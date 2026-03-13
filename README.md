@@ -1,5 +1,7 @@
 # Smart Ambulance Traffic Control System
 
+Demo: https://drive.google.com/drive/u/1/my-drive
+
 An IoT-based intelligent traffic control system that automatically gives priority to ambulances at traffic intersections using **RFID detection and computer vision**.
 
 The system integrates **Arduino hardware control** with a **Python-based AI ambulance detection model** to dynamically change traffic signals and reduce emergency response time.
