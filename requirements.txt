@@ -1,0 +1,3 @@
+roboflow
+opencv-python
+pyserial
