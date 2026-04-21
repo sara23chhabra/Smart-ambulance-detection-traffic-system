@@ -69,7 +69,7 @@ smart-ambulance-traffic-system
 ## Installation
 
 ### 1 Clone the Repository
-git clone https://github.com/YOUR\_USERNAME/smart-ambulance-traffic-system.git
+git clone https://github.com/sara23chhabra/smart-ambulance-traffic-system.git
 cd smart-ambulance-traffic-system
 
 ---
