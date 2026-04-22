@@ -1,6 +1,6 @@
 # Smart Ambulance Traffic Control System
 
-Demo: https://drive.google.com/drive/u/1/my-drive
+Demo: https://drive.google.com/file/d/1pveSUF_h8abargR1zJFC5BFfBlykoG3-/view?usp=sharing
 
 An IoT-based intelligent traffic control system that automatically gives priority to ambulances at traffic intersections using **RFID detection and computer vision**.
 
